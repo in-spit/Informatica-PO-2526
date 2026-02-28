@@ -1,6 +1,16 @@
-.header1 {
+h1.header1 {
     position: absolute;
     top: 0;
     left: 50%;
     transform: translateX(-50%);
+}
+
+/* place a button slightly left of the horizontal center */
+h1.header2 {
+    position: absolute;
+    /* adjust the percentage or use calc() to move it left of exact center */
+    left: 20%;
+    top: 0;
+    transform: translateX(-50%);
+    /* other styling as needed (padding, font, etc.) */
 }
