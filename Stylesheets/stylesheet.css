@@ -7,7 +7,7 @@ ul.topnav {
   overflow: hidden;
   background-color: #333;
 }
-img.logo {
+ul.topnav li img {
   height: 50px;
   width: 50px;
 }
