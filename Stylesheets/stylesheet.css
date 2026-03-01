@@ -9,7 +9,11 @@ ul.topnav {
 }
 ul.topnav li img {
   height: 50px;
-  width: 10px;
+  width: 50px;
+}
+ul.topnav li.logo img {
+  height: 50px !important;
+  width: 50px !important;
 }
 ul.topnav li {float: left;}
 
