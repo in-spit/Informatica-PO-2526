@@ -20,6 +20,15 @@ ul.topnav li.logo img {
 }
 ul.topnav li {float: left;}
 
+ul.topnav li.logo {
+  padding: 0 !important;
+  height: 50px !important;
+  width: 50px !important;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+}
+
 ul.topnav li a {
   display: block;
   color: white;
