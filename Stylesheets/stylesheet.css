@@ -14,6 +14,9 @@ ul.topnav li img {
 ul.topnav li.logo img {
   height: 50px !important;
   width: 50px !important;
+  max-height: 50px !important;
+  max-width: 50px !important;
+  object-fit: contain;
 }
 ul.topnav li {float: left;}
 
