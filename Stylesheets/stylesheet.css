@@ -1,4 +1,4 @@
-# everything animations
+/* everything animations */
 .reveal { transition: opacity 0.7s ease, transform 0.7s ease; }
 .reveal.fade-up     { opacity: 0; transform: translateY(48px); }
 .reveal.fade-in     { opacity: 0; }
