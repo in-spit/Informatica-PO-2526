@@ -155,3 +155,11 @@ p.credits {
   width: 400px;
   height: 180px;
 }
+
+.image3 {
+  width: auto;
+}
+
+.breakpoint {
+  margin-bottom: 600px;
+}
