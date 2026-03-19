@@ -161,5 +161,10 @@ p.credits {
 }
 
 .breakpoint {
-  margin-bottom: 600px;
+  margin-bottom: 300px;
+}
+
+.tip {
+  font-size: 12px;
+  opacity: 0.3;
 }
