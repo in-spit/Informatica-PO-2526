@@ -198,3 +198,14 @@ p.credits {
   transform: translateY(-10px) scale(1.02);
   border-color: rgba(255,255,255,0.2);
 }
+
+.box img {
+  width: 80%;
+  height: 80%;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.breakpoint2 {
+  margin-bottom: 150px;
+}
