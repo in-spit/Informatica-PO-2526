@@ -43,6 +43,7 @@ body {
   text-align: center;
   padding: 40px 20px;
   font-family: 'DM Sans', sans-serif;
+  cursor: url(../Rotated.cur), auto;
 }
 
 nav {
