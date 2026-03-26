@@ -221,3 +221,9 @@ table.centered {
   display: table;
   margin: 0 auto;
 }
+
+.validationimg {
+  width: 400px;
+  height: auto;
+  border-radius: 15px;
+}
