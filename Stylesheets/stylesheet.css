@@ -210,3 +210,14 @@ p.credits {
 .breakpoint2 {
   margin-bottom: 150px;
 }
+
+.centered {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+table.centered {
+  display: table;
+  margin: 0 auto;
+}
